@@ -17,7 +17,7 @@ variable "tfc_organization_name" {
 
 variable "tfc_project_name" {
   type        = string
-  default     = "stacks"
+  default     = "stacks-example"
   description = "The project under which a workspace will be created"
 }
 
